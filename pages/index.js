@@ -1,6 +1,10 @@
 function Home() {
     return (
-        <h1>Teste</h1>
+        <>
+            <header>
+                <h1><a href="https://curso.dev/">Tab News</a></h1>
+            </header>
+        </>
     );
 }
 
