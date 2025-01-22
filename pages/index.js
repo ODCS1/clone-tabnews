@@ -1,8 +1,8 @@
 function Home() {
     return (
         <>
-            <header>
-                <h1><a href="https://curso.dev/">Tab News</a></h1>
+            <header style={{text-align: "center"}}>
+                <h1>Tab News</h1>
             </header>
         </>
     );
