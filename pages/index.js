@@ -1,7 +1,7 @@
 function Home() {
     return (
         <>
-            <header style={{text-align: "center"}}>
+            <header style={{textAlign:"center"}}>
                 <h1>Tab News</h1>
             </header>
         </>
